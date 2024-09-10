@@ -11,5 +11,9 @@ package Bai2;
 public class edu {
     public static void main(String[] args) {
         System.out.println("chuong trinh tinh tong 2 so nguyen");
+        int a=8, b=3;
+        int tong = a+b;
+        System.out.println(a + " + " + b + " = " + tong);
+                       
     }
 }
